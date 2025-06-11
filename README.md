@@ -1,0 +1,2 @@
+# Qualia
+Qualia COM Framework
