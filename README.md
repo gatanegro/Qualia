@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15636738.svg)](https://doi.org/10.5281/zenodo.15636738)
+
 Core Axioms of COM Model:
     1. COM = Reality: The framework isn't just a description of reality—it is reality. Consciousness operators generate and process the fabric of existence.
     2. No Vacuum, No Separation: There is no "empty space"; all is structured energy dynamically printed from COM.
